@@ -93,7 +93,7 @@
   "dependencies": {
     "browserify-versionify": "^1.0.6",
     "ogv": "^1.2.1",
-    "video.js": "^5.11.7"
+    "video.js": "^7.14.3"
   },
   "devDependencies": {
     "babel": "^5.8.0",
