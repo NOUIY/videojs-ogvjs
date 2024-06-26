@@ -70,7 +70,7 @@
   "dependencies": {
     "@babel/runtime": "^7.14.0",
     "global": "^4.4.0",
-    "ogv": "^1.8.9",
+    "ogv": "^1.9.0",
     "video.js": "^7.17.0"
   },
   "devDependencies": {
