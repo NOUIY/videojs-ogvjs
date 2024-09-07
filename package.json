@@ -68,10 +68,10 @@
     "prepublishOnly": "npm-run-all build test:verify"
   },
   "dependencies": {
-    "@babel/runtime": "^7.14.0",
+    "@babel/runtime": "^7.25.0",
     "global": "^4.4.0",
-    "ogv": "^1.8.9",
-    "video.js": "^7.17.0"
+    "ogv": "^1.9.0",
+    "video.js": "^7.21.6"
   },
   "devDependencies": {
     "@babel/cli": "^7.13.16",
